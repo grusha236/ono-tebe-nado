@@ -46,7 +46,7 @@
     font-weight: 400;
     line-height: 24.3px;
     text-underline-position: under;
-    text-align: left;  
+    text-align: left;
 }
 .address__text {
     font-size: 18px;
@@ -143,22 +143,22 @@
     line-height: 120%;
     text-transform: uppercase;
     color: #000;
- }
+}
  .lots__card-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 25px;
     list-style: none;
     padding-top: 24px;
- }
+}
  .lots__card-list-item {
     height: 100%;
- }
+}
  .card-link {
     display: block;
     text-decoration: none;
     height: 100%;
- }
+}
  .card {
     position: relative;
     display: flex;
@@ -187,7 +187,7 @@
     padding: 0 40px 48px ;
 }
 .card_type_film {
-    background-image: url(../images/card-lot-01.jpg) no-repeat center/cover;  
+    background-image: url(../images/card-lot-01.jpg) no-repeat center/cover;
 }
 .card_type_book {
     background-image: url(../images/card-lot-02.jpg) no-repeat center/cover;
@@ -202,7 +202,7 @@
     text-underline-position: under;
     padding-top: 30px;
     padding-left: 40px;
- }
+}
  .about {
     width: 1052px;
     height: 595px;
@@ -227,18 +227,18 @@
     height: 240px;
     border-radius: 100%;
     background-color: rgb(0, 0, 0);
- }
+}
  .about__logo-image {
     align-self: center;
     width: 148px;
     height: 114px;
- }
+}
  .about__title {
     padding-top: 80px;
     font-weight: 700;
     font-size: 40px;
     text-transform: uppercase;
- }
+}
  .about__text {
     padding-top: 100px;
     display: flex;
@@ -248,29 +248,29 @@
     font-size: 20px;
     line-height: 120%;
     letter-spacing: 0.01em;
- }
+}
  .footer {
     display: flex;
     justify-content: space-between;
     padding: 125px 50px 88px;
- }
+}
  .footer__menu-link_active {
     font-size: 18px;
     text-decoration: none;
-  }
+}
  .footer__menu-list {
     text-align: center;
     list-style: none;
- }
+}
  .footer__menu-link {
     font-size: 18px;
     text-underline-position: under;
- }
+}
  .footer__menu-list-icon {
     display: flex;
     gap: 48px;
     list-style: none;
- }
+}
  .footer__social-list-item {
     display: inline-block;
     background-repeat: no-repeat;
