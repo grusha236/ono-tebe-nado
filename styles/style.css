@@ -22,7 +22,7 @@
 }
 .header__links-list-item {
     list-style: circle;
-    text-decoration: underline;  
+    text-decoration: underline;
     text-underline-offset: 4px;
     gap: 32px;
 }
@@ -40,6 +40,7 @@
     font-size: 18px;
     justify-self: end;
     margin-right: 35px;
+    font-style: normal;
 }
 .address__item {
     font-size: 18px;
