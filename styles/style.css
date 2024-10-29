@@ -47,7 +47,7 @@
     line-height: 24.3px;
     text-underline-position: under;
     text-align: left;  
-    }
+}
 .address__text {
     font-size: 18px;
     line-height: 24.3px;
@@ -188,7 +188,7 @@
 }
 .card_type_film {
     background-image: url(../images/card-lot-01.jpg) no-repeat center/cover;  
- }
+}
 .card_type_book {
     background-image: url(../images/card-lot-02.jpg) no-repeat center/cover;
 }
@@ -218,7 +218,7 @@
     left: 359px;
     top: 133px;
 }
- .about__logo  {
+ .about__logo {
     display: flex;
     justify-content: center;
     position: relative;
@@ -253,10 +253,6 @@
     display: flex;
     justify-content: space-between;
     padding: 125px 50px 88px;
- }
- .footer__menu-link {
-    text-align: center;
-    list-style: none;
  }
  .footer__menu-link_active {
     font-size: 18px;
